@@ -21,13 +21,12 @@ I'm a skilled Cloud Platform/Services Engineer with nearly eight years of experi
 
 1. NuraLogix Corporation - Cloud Platform Engineer
 2. R Gupta Consultancy Services Inc. - Founder and CEO
-3. SSENSE - Senior Software Engineer
-4. Qlik - Cloud Software Engineer
-5. i-Sight - Software Application Developer
-6. Gr8prkn - Mobile Application Developer
-7. OutfitMatch (Chrome Extension) - Web Developer
-8. Garbage Hunters - Android Developer (Java)
-9. NASA International Space Apps Challenge - First position across Ottawa & Global nominee
+3. Qlik - Cloud Software Engineer
+4. i-Sight - Software Application Developer
+5. Gr8prkn - Mobile Application Developer
+6. OutfitMatch (Chrome Extension) - Web Developer
+7. Garbage Hunters - Android Developer (Java)
+8. NASA International Space Apps Challenge - First position across Ottawa & Global nominee
 
 ## Education
 
