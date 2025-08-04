@@ -1,8 +1,20 @@
-# Akash Gupta | Cloud Platform Engineer | CEO at RGCS | Ottawa, Canada
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Akash%20Gupta&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Cloud%20Architect%20|%20CEO%20@%20RGCS%20|%20Building%20the%20Future&descAlignY=50&descAlign=50" width="100%" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Cloud+Platform+Engineer;CEO+at+RGCS;8%2B+Years+Experience;Full+Stack+Developer)](https://git.io/typing-svg)
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!+👋;Cloud+Platform+Engineer+with+8%2B+Years+Experience;Building+AI-Powered+SaaS+Solutions;Let's+Create+Something+Amazing+Together!" alt="Typing SVG" />
 
-## Senior Software Engineer & Cloud Architect | Building AI-Powered SaaS Solutions
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta52akash)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agupta@rgcs.ca)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RGCsAGupta)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 I'm a seasoned **Software Engineer** and **Project Manager** with over 8 years of experience specializing in **cloud computing**, **microservices architecture**, and **AI-powered applications**. As CEO of **R Gupta Consultancy Services Inc.**, I lead teams in developing cutting-edge **SaaS platforms** and enterprise solutions using **AWS**, **Azure**, **Node.js**, **React**, and **TypeScript**.
 
@@ -41,45 +53,36 @@ I'm a seasoned **Software Engineer** and **Project Manager** with over 8 years o
 ### 🚀 More Projects Coming Soon
 Building innovative **SaaS solutions** and **open-source tools**. Check out my pinned repositories and stay tuned for updates!
 
-## 🛠️ Technical Skills & Expertise
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Technical Skills & Expertise
+
+<div align="center">
 
 ### ☁️ Cloud Platforms & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes&theme=dark" />
+</p>
 
-### 💻 Programming Languages & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 💻 Programming Languages & Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,java,go,python&theme=dark" />
+</p>
 
 ### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css&theme=dark" />
+</p>
 
 ### 🗄️ Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,supabase&theme=dark" />
+</p>
 
 ### 🔧 DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=github,jenkins,git,vscode,linux&theme=dark" />
+</p>
 
-### 🔐 Authentication & Security
-**OAuth 2.0** • **OpenID Connect (OIDC)** • **SAML** • **JWT** • **Okta** • **Auth0** • **Azure AD** • **Firebase Auth**
+</div>
 
 ## 💼 Professional Experience | Software Engineering Leader
 
@@ -118,11 +121,13 @@ Building innovative **SaaS solutions** and **open-source tools**. Check out my p
 - Mentored junior developers and established **code review practices**
 - **Technologies**: Node.js, PostgreSQL, Redis, Docker, React
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements & Recognition | Industry Leader
 
-- 🥇 **NASA International Space Apps Challenge** - First position across Ottawa & Global nominee
-- 🎤 **Speaker** - Internal developer conference
-- 🏅 **Certifications** - SQL Fundamentals, React Ecosystems, PHP, Docker Essentials, Java
+- 🥇 **NASA International Space Apps Challenge** - **First Position** Ottawa & **Global Nominee**
+- 🎤 **Technical Speaker** - Internal developer conferences on **cloud architecture** and **best practices**
+- 🏅 **Certified Professional** - SQL, React Ecosystems, Docker, Java, PHP
+- 📚 **Thought Leader** - Contributing to **open source** and mentoring developers
+- 🌟 **8+ Years** building enterprise software for companies like **Qlik**, **SSENSE**, **NuraLogix**
 
 ## 🎓 Education
 
@@ -131,31 +136,34 @@ Building innovative **SaaS solutions** and **open-source tools**. Check out my p
 - **Exe solutions**
   - Diploma, Web Page & Digital/Multimedia Design (2013 - 2014)
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RGCsAGupta&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp; GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RGCsAGupta&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RGCsAGupta&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Akash Gupta github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGCsAGupta&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGCsAGupta&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RGCsAGupta&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Profile Trophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RGCsAGupta&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophy" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RGCsAGupta&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophy" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RGCsAGupta&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RGCsAGupta&custom_title=Akash's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00b3ff&line=00b3ff&point=00b3ff&area_color=0d1117&title_color=ffffff&area=true" alt="Contribution Graph" />
+</div>
 
 ## 📫 Let's Connect
 
@@ -165,35 +173,16 @@ Building innovative **SaaS solutions** and **open-source tools**. Check out my p
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/gupta52akash)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RGCsAGupta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" width="100%" />
+  
+  ### Thanks for visiting! 👋
+  
+  <img src="https://komarev.com/ghpvc/?username=RGCsAGupta&label=Profile%20views&color=00b3ff&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/RGCsAGupta?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RGCsAGupta/RGCsAGupta/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<details>
-<summary>⚡ Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-<summary>📊 More Stats</summary>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RGCsAGupta&theme=radical" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RGCsAGupta&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RGCsAGupta&theme=radical" alt="Most Commit Language" />
-</p>
-
-</details>
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00b3ff&center=true&vCenter=true&width=600&lines=Let's+connect+and+build+something+amazing!;Open+to+collaboration+and+new+opportunities" alt="Typing SVG" />
+</div>
