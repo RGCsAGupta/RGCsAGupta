@@ -10,9 +10,9 @@ I'm a seasoned Software Engineer & Project Manager with over 8 years of experien
 
 - 🌱 Currently working as **Chief Executive Officer** at **R Gupta Consultancy Services Inc.**
 - 💼 Leading a team specializing in innovative software solutions tailored to diverse client needs
-- 🔭 Building robust and scalable cloud-based products
+- 🔭 Building **Restaurantos** - an AI-powered restaurant OS that's revolutionizing hospitality tech
 - 💻 Developing personal projects under RGCS to explore cutting-edge technologies
-- 💬 Ask me about cloud architecture, OAuth/OIDC, microservices, or project management
+- 💬 Ask me about cloud architecture, OAuth/OIDC, microservices, AI/ML integration, SaaS development, or AI-assisted development with Claude Code
 
 ## 🔨 Current Projects at RGCS
 
@@ -25,6 +25,7 @@ I'm a seasoned Software Engineer & Project Manager with over 8 years of experien
   - 👥 CRM with loyalty programs and automated marketing
   - 📱 Mobile-first PWA for offline resilience
 - **Tech Stack**: Next.js, Supabase, TypeScript, Turborepo, TDD methodology
+- **Development Approach**: Leveraging Claude Code with BMAD (Business Modeling Agile Development) methodology for rapid, AI-assisted development
 - **Status**: In Active Development - MVP targeting core operational loop
 - **Vision**: Empowering restaurants from single locations to enterprise chains with data-driven insights
 
