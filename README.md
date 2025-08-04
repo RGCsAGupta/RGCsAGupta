@@ -1,8 +1,8 @@
 # Hi, I'm Akash Gupta 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Cloud+Platform+Engineer;CEO+at+RGCS;7%2B+Years+Experience;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Cloud+Platform+Engineer;CEO+at+RGCS;8%2B+Years+Experience;Full+Stack+Developer)](https://git.io/typing-svg)
 
-I'm a seasoned Software Engineer & Project Manager with over 7 years of experience. I bring a unique combination of technical expertise and project management skills, specializing in cloud solutions and cross-functional leadership. I help businesses achieve new heights in efficiency and productivity through cutting-edge software solutions.
+I'm a seasoned Software Engineer & Project Manager with over 8 years of experience. I bring a unique combination of technical expertise and project management skills, specializing in cloud solutions and cross-functional leadership. I help businesses achieve new heights in efficiency and productivity through cutting-edge software solutions.
 
 📍 Based in Greater Ottawa Metropolitan Area, Canada
 
@@ -139,4 +139,33 @@ OAuth/OIDC • Firebase • ElasticSearch • Kibana • Splunk • Jaeger • R
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RGCsAGupta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/RGCsAGupta?label=Followers&style=social" alt="GitHub followers" />
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RGCsAGupta/RGCsAGupta/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<details>
+<summary>⚡ Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+<summary>📊 More Stats</summary>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RGCsAGupta&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RGCsAGupta&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RGCsAGupta&theme=radical" alt="Most Commit Language" />
+</p>
+
+</details>
