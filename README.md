@@ -1,188 +1,240 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Akash%20Gupta&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Cloud%20Architect%20|%20CEO%20@%20RGCS%20|%20Building%20the%20Future&descAlignY=50&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,27,14,30&height=280&section=header&text=Hey,%20I'm%20Akash!%20👋&fontSize=70&animation=twinkling&fontAlignY=35&desc=I%20turn%20restaurants%20into%20tech%20unicorns%20🦄&descAlignY=50&descAlign=50&descSize=25" width="100%" />
 </div>
-
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!+👋;Cloud+Platform+Engineer+with+8%2B+Years+Experience;Building+AI-Powered+SaaS+Solutions;Let's+Create+Something+Amazing+Together!" alt="Typing SVG" />
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta52akash)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agupta@rgcs.ca)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RGCsAGupta)
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=1200&lines=🚀+Building+the+Future+of+Restaurant+Tech+with+AI;💡+From+NASA+Hackathons+to+SaaS+Solutions;☁️+8%2B+Years+Making+Cloud+Magic+Happen;🤖+Claude+Code+%2B+BMAD+%3D+10x+Developer" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta52akash)
+[![Email](https://img.shields.io/badge/Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agupta@rgcs.ca)
+[![Twitter](https://img.shields.io/badge/Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  
+</div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> The TL;DR of Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+
+```javascript
+const akash = {
+    title: "CEO @ RGCS | Cloud Architect",
+    location: "Ottawa, Canada 🇨🇦",
+    current: "Building Restaurantos 🍕",
+    mood: "Caffeinated ☕",
+    
+    superpowers: [
+        "Turning chaos into microservices",
+        "OAuth whispering",
+        "Making AI do the heavy lifting",
+        "Converting pizza into code"
+    ],
+    
+    achievements: {
+        nasa: "🚀 Beat NASA (sort of)",
+        scale: "📈 100M+ monthly views handled",
+        impact: "💰 30% less food waste with AI"
+    },
+    
+    currentlyLearning: "How to teach AI to cook 👨‍🍳",
+    funFact: "I debug in production (just kidding... or am I?)"
+};
+```
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## 🔥 What I'm Shipping Right Now
+
+<div align="center">
+  
+### 🍽️ **RESTAURANTOS** - The Restaurant OS Nobody Asked For (But Everyone Needs)
+
+<img src="https://img.shields.io/badge/Status-Cooking%20Something%20Amazing-FF6B6B?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Launch-Q1%202025-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Powered%20By-AI%20%2B%20Coffee-FFE66D?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**🤯 The Problem:** Restaurants run on 47 different apps, 3 Excel sheets, and pure chaos  
+**💡 The Solution:** One platform to rule them all (yes, like LOTR but for food)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+<details>
+<summary><b>🎯 Click to see why this is revolutionary</b></summary>
 
-I'm a seasoned **Software Engineer** and **Project Manager** with over 8 years of experience specializing in **cloud computing**, **microservices architecture**, and **AI-powered applications**. As CEO of **R Gupta Consultancy Services Inc.**, I lead teams in developing cutting-edge **SaaS platforms** and enterprise solutions using **AWS**, **Azure**, **Node.js**, **React**, and **TypeScript**.
+### We're Building:
+- 🤖 **AI that predicts the future** (of your inventory)
+- 💸 **POS that actually makes sense** (revolutionary, right?)
+- 📊 **Analytics that tell you why you're losing money** (spoiler: it's the avocados)
+- 🎮 **Gamified staff management** (because work should be fun)
+- 🔮 **Crystal ball mode** (aka predictive analytics)
 
-📍 **Location**: Greater Ottawa Metropolitan Area, Ontario, Canada  
-🔍 **Specialties**: Cloud Architecture | DevOps | OAuth/OIDC | Kubernetes | Docker | AI Integration | Restaurant Technology
+### Tech Stack That Slaps:
+```
+Frontend:  Next.js 14 + TypeScript (because we're not savages)
+Backend:   Supabase (Postgres on steroids)
+AI Brain:  Custom ML models (they're learning...)
+DevOps:    Kubernetes (container party 🎉)
+Style:     Tailwind (making CSS great again)
+Method:    Claude Code + BMAD (AI pair programming FTW)
+```
 
-### 🔍 Keywords: 
-`Cloud Engineer` `Software Architect` `Full Stack Developer` `Node.js Expert` `React Developer` `TypeScript` `AWS Certified` `Azure` `Kubernetes` `Docker` `Microservices` `OAuth 2.0` `OIDC` `SaaS Development` `Restaurant POS` `AI Integration` `Ottawa Developer` `Canada`
+</details>
 
-## 🚀 What I'm Currently Working On
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-- 🌱 **Chief Executive Officer** at **[R Gupta Consultancy Services Inc.](https://rgcs.ca)** - Leading cloud transformation projects
-- 💼 Building enterprise **SaaS solutions** for Fortune 500 clients using **microservices architecture**
-- 🔭 Developing **[Restaurantos](#-restaurantos---ai-powered-restaurant-operating-system)** - Revolutionary AI-powered restaurant management platform
-- 💻 Pioneering **AI-assisted development** using **Claude Code** with **BMAD methodology**
-- 🛠️ Tech Stack: **Next.js 14** | **Supabase** | **TypeScript** | **Kubernetes** | **AWS Lambda**
-- 💬 Ask me about: **Cloud Architecture** | **OAuth/OIDC Implementation** | **Microservices** | **AI/ML Integration** | **SaaS Development** | **DevOps Best Practices**
-
-## 🔨 Featured Projects | Open Source & Enterprise Solutions
-
-### 🍽️ [Restaurantos](https://github.com/RGCsAGupta/restaurantos) - AI-Powered Restaurant Operating System
-**Revolutionary SaaS Platform for Restaurant Management**
-- **Description**: Building a comprehensive restaurant management platform with **AI-driven predictive analytics**
-- **Impact**: Reducing food waste by 30% and optimizing staff scheduling using **machine learning**
-- **Key Features**:
-  - 🤖 **AI Sales Forecasting** - Predictive analytics for inventory and staffing
-  - 💳 **Cloud POS System** - Real-time order management with offline capability
-  - 📊 **Financial Analytics** - COGS, prime cost, and profitability tracking
-  - 👥 **CRM & Loyalty** - Customer engagement and retention tools
-  - 📱 **Progressive Web App** - Mobile-first design with offline support
-- **Tech Stack**: **Next.js 14** | **Supabase** | **TypeScript** | **PostgreSQL** | **Redis** | **Tailwind CSS**
-- **Architecture**: **Microservices** | **Event-Driven** | **Serverless** | **Test-Driven Development**
-- **Development**: Using **Claude Code** with **BMAD methodology** for AI-assisted rapid development
-- **Status**: MVP in development - Targeting Q1 2025 launch
-
-### 🚀 More Projects Coming Soon
-Building innovative **SaaS solutions** and **open-source tools**. Check out my pinned repositories and stay tuned for updates!
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Technical Skills & Expertise
+## 💪 Tech Arsenal (My Infinity Stones)
 
 <div align="center">
 
-### ☁️ Cloud Platforms & DevOps
+### 🧙‍♂️ **Languages I Speak** (Fluently)
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes&theme=dark" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black" />
 </p>
 
-### 💻 Programming Languages & Frameworks  
+### ☁️ **Cloud Wizardry**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,java,go,python&theme=dark" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=black" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=black" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 **Frontend Magic**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black" />
 </p>
 
-### 🗄️ Databases & Backend
+### 🔐 **Auth Sorcery** (My Specialty)
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,supabase&theme=dark" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/OIDC-F78C40?style=for-the-badge&logo=openid&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </p>
 
-### 🔧 DevOps & Tools
+### 🤖 **AI & Future Tech**
 <p>
-  <img src="https://skillicons.dev/icons?i=github,jenkins,git,vscode,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Claude_Code-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/BMAD_Method-00C7B7?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 </div>
 
-## 💼 Professional Experience | Software Engineering Leader
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### **[R Gupta Consultancy Services Inc.](https://rgcs.ca)** - Chief Executive Officer & Lead Cloud Architect
-*March 2022 - Present | Ottawa, Ontario, Canada*
-- Leading **cloud transformation** initiatives for enterprise clients
-- Architecting **scalable SaaS solutions** using **microservices** and **serverless** technologies
-- Implementing **DevOps best practices** and **CI/CD pipelines** for Fortune 500 companies
-- **Technologies**: AWS, Azure, Kubernetes, Docker, Node.js, React, TypeScript
-
-### **[NuraLogix Corporation](https://www.nuralogix.ai/)** - Senior Cloud Platform Engineer
-*August 2022 - May 2023 | Greater Toronto Area, Canada*
-- Designed **scalable cloud infrastructure** for AI-powered health analytics platform
-- Implemented **Infrastructure as Code** using **Pulumi** and **Terraform**
-- Built **real-time data pipelines** processing millions of health metrics
-- **Technologies**: AWS, Node.js, PostgreSQL, Kubernetes, GitHub Actions
-
-### **[SSENSE](https://www.ssense.com/)** - Senior Software Engineer
-*April 2022 - August 2022 | Montreal, Quebec, Canada*
-- Developed **microservices** for high-value customer engagement (100M+ monthly page views)
-- Built **real-time analytics** and **personalization engines**
-- Implemented **event-driven architecture** using AWS Lambda and SQS
-- **Technologies**: Node.js, TypeScript, AWS, MongoDB, Docker, Kubernetes
-
-### **[Qlik](https://www.qlik.com/)** - Cloud Software Engineer - R&D
-*February 2021 - April 2022 | Ottawa, Ontario, Canada*
-- Architected **OAuth/OIDC authentication** system for multi-tenant SaaS platform
-- Built **scalable APIs** handling thousands of monthly signups
-- Integrated with **identity providers**: Okta, Auth0, Azure AD, Salesforce
-- **Technologies**: Go, Node.js, MongoDB, Kubernetes, Redis
-
-### **[Case IQ (Formerly i-Sight)](https://www.caseiq.com/)** - Senior Software Application Developer
-*September 2017 - February 2021 | Ottawa, Canada*
-- Promoted to **core platform team** developing enterprise case management system
-- Built **workflow automation** and **real-time collaboration** features
-- Mentored junior developers and established **code review practices**
-- **Technologies**: Node.js, PostgreSQL, Redis, Docker, React
-
-## 🏆 Achievements & Recognition | Industry Leader
-
-- 🥇 **NASA International Space Apps Challenge** - **First Position** Ottawa & **Global Nominee**
-- 🎤 **Technical Speaker** - Internal developer conferences on **cloud architecture** and **best practices**
-- 🏅 **Certified Professional** - SQL, React Ecosystems, Docker, Java, PHP
-- 📚 **Thought Leader** - Contributing to **open source** and mentoring developers
-- 🌟 **8+ Years** building enterprise software for companies like **Qlik**, **SSENSE**, **NuraLogix**
-
-## 🎓 Education
-
-- **Algonquin College of Applied Arts and Technology**
-  - Associate's degree, Computer Programming (2014 - 2016)
-- **Exe solutions**
-  - Diploma, Web Page & Digital/Multimedia Design (2013 - 2014)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp; GitHub Stats
+## 📈 The Numbers Don't Lie
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RGCsAGupta&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Akash Gupta github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGCsAGupta&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=RGCsAGupta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RGCsAGupta&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RGCsAGupta&custom_title=My%20Coding%20Rhythm%20🎵&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area_color=0d1117&title_color=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
 </div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## 🏢 Where I've Made Magic Happen
+
+<details>
+<summary><b>🚀 Click to see my journey (it's been wild)</b></summary>
+
+### 🎯 **Current Mission**
+**👔 CEO @ [RGCS](https://rgcs.ca)** *(March 2022 - Making the future)*
+- 🏗️ Building SaaS products that actually solve problems
+- 🎮 Leading a team of cloud ninjas
+- 💡 Turning "that's impossible" into "here's the demo"
+
+### 🏆 **Previous Boss Battles**
+**☁️ NuraLogix** - Made health tech scale to millions  
+**🛍️ SSENSE** - Handled 100M+ monthly fashion addicts  
+**📊 Qlik** - Built auth systems that don't break  
+**🔍 Case IQ** - 3.5 years making enterprise software not suck  
+
+### 🎖️ **Achievement Unlocked**
+- 🚀 **NASA Space Apps Challenge** - Global Nominee (yes, actual rocket science)
+- 🎤 **Conference Speaker** - Spreading the cloud gospel
+- 🧑‍🏫 **Mentor** - Creating more cloud wizards
+
+</details>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## 💭 Random Thoughts from My Brain
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RGCsAGupta&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" />
+  
+*"The best code is no code. The second best is code that writes itself. That's why I use Claude Code."*
+
+*"I don't always test in production, but when I do, it's on a Friday at 5 PM."* (jk, please don't)
+
+*"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🏆 GitHub Profile Trophy
+## 🎮 Let's Connect & Build Cool Stuff!
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RGCsAGupta&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophy" />
+
+### 💬 Hit me up if you want to:
+- 🚀 **Revolutionize an industry** (I'm 1 for 1 so far)
+- ☁️ **Migrate to the cloud** (without crying)
+- 🤖 **Add AI to literally anything** (AI-powered toaster? Let's talk)
+- 🍕 **Grab pizza and talk tech** (best meetings ever)
+- 💡 **Turn your "what if" into "what's next"**
+
+<br>
+
+<a href="https://www.linkedin.com/in/gupta52akash">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:agupta@rgcs.ca">
+  <img src="https://img.shields.io/badge/Email-Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://calendly.com/your-link">
+  <img src="https://img.shields.io/badge/Calendly-Book_a_Chat-00A2FF?style=for-the-badge&logo=calendly&logoColor=white" />
+</a>
+
+<br><br>
+
+### 🎯 **Currently Open To:**
+`🤝 Collaborations` `🎤 Speaking Engagements` `☕ Coffee Chats` `🚀 Crazy Ideas`
+
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RGCsAGupta&custom_title=Akash's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00b3ff&line=00b3ff&point=00b3ff&area_color=0d1117&title_color=ffffff&area=true" alt="Contribution Graph" />
-</div>
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta52akash)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agupta@rgcs.ca)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RGCsAGupta)
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/gupta52akash)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,27,14,30&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontAlignY=70&animation=twinkling&desc=Let's%20build%20the%20future%20together%20🚀&descAlignY=88&descSize=18" width="100%" />
   
-  ### Thanks for visiting! 👋
+  <br>
   
-  <img src="https://komarev.com/ghpvc/?username=RGCsAGupta&label=Profile%20views&color=00b3ff&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/RGCsAGupta?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=RGCsAGupta&label=Profile%20Stalkers&color=00ffff&style=for-the-badge" alt="Profile views" />
   
-  <br/>
+  <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00b3ff&center=true&vCenter=true&width=600&lines=Let's+connect+and+build+something+amazing!;Open+to+collaboration+and+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  
+  <br><br>
+  
+  <b>⚡ Fun fact:</b> This README loads faster than my first Java program 😅
 </div>
