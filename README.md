@@ -16,7 +16,19 @@ I'm a seasoned Software Engineer & Project Manager with over 8 years of experien
 
 ## 🔨 Current Projects at RGCS
 
-Working on innovative solutions that combine modern tech stacks with practical business applications. Stay tuned for updates!
+### 🍽️ Restaurantos - AI-Powered Restaurant Operating System
+- **Description**: Building a comprehensive, all-in-one platform that revolutionizes restaurant operations through intelligent automation
+- **Key Features**:
+  - 🤖 AI-powered sales & inventory forecasting to reduce waste
+  - 💳 Integrated POS with real-time kitchen display system
+  - 📊 Advanced analytics for COGS, prime cost, and profitability
+  - 👥 CRM with loyalty programs and automated marketing
+  - 📱 Mobile-first PWA for offline resilience
+- **Tech Stack**: Next.js, Supabase, TypeScript, Turborepo, TDD methodology
+- **Status**: In Active Development - MVP targeting core operational loop
+- **Vision**: Empowering restaurants from single locations to enterprise chains with data-driven insights
+
+Working on other innovative solutions that combine modern tech stacks with practical business applications. Stay tuned for updates!
 
 *Check out my pinned repositories below for some of my work!*
 
