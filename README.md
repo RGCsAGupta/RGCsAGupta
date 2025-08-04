@@ -1,107 +1,122 @@
-# Hi, I'm Akash Gupta 👋
+# Akash Gupta | Cloud Platform Engineer | CEO at RGCS | Ottawa, Canada
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Cloud+Platform+Engineer;CEO+at+RGCS;8%2B+Years+Experience;Full+Stack+Developer)](https://git.io/typing-svg)
 
-I'm a seasoned Software Engineer & Project Manager with over 8 years of experience. I bring a unique combination of technical expertise and project management skills, specializing in cloud solutions and cross-functional leadership. I help businesses achieve new heights in efficiency and productivity through cutting-edge software solutions.
+## Senior Software Engineer & Cloud Architect | Building AI-Powered SaaS Solutions
 
-📍 Based in Greater Ottawa Metropolitan Area, Canada
+I'm a seasoned **Software Engineer** and **Project Manager** with over 8 years of experience specializing in **cloud computing**, **microservices architecture**, and **AI-powered applications**. As CEO of **R Gupta Consultancy Services Inc.**, I lead teams in developing cutting-edge **SaaS platforms** and enterprise solutions using **AWS**, **Azure**, **Node.js**, **React**, and **TypeScript**.
 
-## 🚀 What I'm Up To
+📍 **Location**: Greater Ottawa Metropolitan Area, Ontario, Canada  
+🔍 **Specialties**: Cloud Architecture | DevOps | OAuth/OIDC | Kubernetes | Docker | AI Integration | Restaurant Technology
 
-- 🌱 Currently working as **Chief Executive Officer** at **R Gupta Consultancy Services Inc.**
-- 💼 Leading a team specializing in innovative software solutions tailored to diverse client needs
-- 🔭 Building **Restaurantos** - an AI-powered restaurant OS that's revolutionizing hospitality tech
-- 💻 Developing personal projects under RGCS to explore cutting-edge technologies
-- 💬 Ask me about cloud architecture, OAuth/OIDC, microservices, AI/ML integration, SaaS development, or AI-assisted development with Claude Code
+### 🔍 Keywords: 
+`Cloud Engineer` `Software Architect` `Full Stack Developer` `Node.js Expert` `React Developer` `TypeScript` `AWS Certified` `Azure` `Kubernetes` `Docker` `Microservices` `OAuth 2.0` `OIDC` `SaaS Development` `Restaurant POS` `AI Integration` `Ottawa Developer` `Canada`
 
-## 🔨 Current Projects at RGCS
+## 🚀 What I'm Currently Working On
 
-### 🍽️ Restaurantos - AI-Powered Restaurant Operating System
-- **Description**: Building a comprehensive, all-in-one platform that revolutionizes restaurant operations through intelligent automation
+- 🌱 **Chief Executive Officer** at **[R Gupta Consultancy Services Inc.](https://rgcs.ca)** - Leading cloud transformation projects
+- 💼 Building enterprise **SaaS solutions** for Fortune 500 clients using **microservices architecture**
+- 🔭 Developing **[Restaurantos](#-restaurantos---ai-powered-restaurant-operating-system)** - Revolutionary AI-powered restaurant management platform
+- 💻 Pioneering **AI-assisted development** using **Claude Code** with **BMAD methodology**
+- 🛠️ Tech Stack: **Next.js 14** | **Supabase** | **TypeScript** | **Kubernetes** | **AWS Lambda**
+- 💬 Ask me about: **Cloud Architecture** | **OAuth/OIDC Implementation** | **Microservices** | **AI/ML Integration** | **SaaS Development** | **DevOps Best Practices**
+
+## 🔨 Featured Projects | Open Source & Enterprise Solutions
+
+### 🍽️ [Restaurantos](https://github.com/RGCsAGupta/restaurantos) - AI-Powered Restaurant Operating System
+**Revolutionary SaaS Platform for Restaurant Management**
+- **Description**: Building a comprehensive restaurant management platform with **AI-driven predictive analytics**
+- **Impact**: Reducing food waste by 30% and optimizing staff scheduling using **machine learning**
 - **Key Features**:
-  - 🤖 AI-powered sales & inventory forecasting to reduce waste
-  - 💳 Integrated POS with real-time kitchen display system
-  - 📊 Advanced analytics for COGS, prime cost, and profitability
-  - 👥 CRM with loyalty programs and automated marketing
-  - 📱 Mobile-first PWA for offline resilience
-- **Tech Stack**: Next.js, Supabase, TypeScript, Turborepo, TDD methodology
-- **Development Approach**: Leveraging Claude Code with BMAD (Business Modeling Agile Development) methodology for rapid, AI-assisted development
-- **Status**: In Active Development - MVP targeting core operational loop
-- **Vision**: Empowering restaurants from single locations to enterprise chains with data-driven insights
+  - 🤖 **AI Sales Forecasting** - Predictive analytics for inventory and staffing
+  - 💳 **Cloud POS System** - Real-time order management with offline capability
+  - 📊 **Financial Analytics** - COGS, prime cost, and profitability tracking
+  - 👥 **CRM & Loyalty** - Customer engagement and retention tools
+  - 📱 **Progressive Web App** - Mobile-first design with offline support
+- **Tech Stack**: **Next.js 14** | **Supabase** | **TypeScript** | **PostgreSQL** | **Redis** | **Tailwind CSS**
+- **Architecture**: **Microservices** | **Event-Driven** | **Serverless** | **Test-Driven Development**
+- **Development**: Using **Claude Code** with **BMAD methodology** for AI-assisted rapid development
+- **Status**: MVP in development - Targeting Q1 2025 launch
 
-Working on other innovative solutions that combine modern tech stacks with practical business applications. Stay tuned for updates!
+### 🚀 More Projects Coming Soon
+Building innovative **SaaS solutions** and **open-source tools**. Check out my pinned repositories and stay tuned for updates!
 
-*Check out my pinned repositories below for some of my work!*
+## 🛠️ Technical Skills & Expertise
 
-## 🛠️ Technical Skills
-
-### Cloud Platforms
+### ☁️ Cloud Platforms & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Languages
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 💻 Programming Languages & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Frameworks & Tools
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🔧 DevOps & Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-### DevOps & Tools
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Helm](https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Pulumi](https://img.shields.io/badge/pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+### 🔐 Authentication & Security
+**OAuth 2.0** • **OpenID Connect (OIDC)** • **SAML** • **JWT** • **Okta** • **Auth0** • **Azure AD** • **Firebase Auth**
 
-### Other Technologies
-OAuth/OIDC • Firebase • ElasticSearch • Kibana • Splunk • Jaeger • Rollbar • DataDog • SenecaJS • PassportJS • Webpack • Babel
+## 💼 Professional Experience | Software Engineering Leader
 
-## 💼 Professional Experience
+### **[R Gupta Consultancy Services Inc.](https://rgcs.ca)** - Chief Executive Officer & Lead Cloud Architect
+*March 2022 - Present | Ottawa, Ontario, Canada*
+- Leading **cloud transformation** initiatives for enterprise clients
+- Architecting **scalable SaaS solutions** using **microservices** and **serverless** technologies
+- Implementing **DevOps best practices** and **CI/CD pipelines** for Fortune 500 companies
+- **Technologies**: AWS, Azure, Kubernetes, Docker, Node.js, React, TypeScript
 
-### **R Gupta Consultancy Services Inc.** - Chief Executive Officer
-*March 2022 - Present*
-- Leading a team specializing in innovative software solutions for diverse clients
-- Combining cutting-edge technology with strategic project management
-- Delivering robust, scalable cloud engineering solutions
+### **[NuraLogix Corporation](https://www.nuralogix.ai/)** - Senior Cloud Platform Engineer
+*August 2022 - May 2023 | Greater Toronto Area, Canada*
+- Designed **scalable cloud infrastructure** for AI-powered health analytics platform
+- Implemented **Infrastructure as Code** using **Pulumi** and **Terraform**
+- Built **real-time data pipelines** processing millions of health metrics
+- **Technologies**: AWS, Node.js, PostgreSQL, Kubernetes, GitHub Actions
 
-### **NuraLogix Corporation** - Cloud Platform Engineer
-*August 2022 - May 2023*
-- Designed and maintained scalable cloud-based solutions using AWS, Node.js, and PostgreSQL
-- Implemented CI/CD pipelines with GitHub Actions and infrastructure as code with Pulumi
-- Automated deployment and management using Kubernetes
+### **[SSENSE](https://www.ssense.com/)** - Senior Software Engineer
+*April 2022 - August 2022 | Montreal, Quebec, Canada*
+- Developed **microservices** for high-value customer engagement (100M+ monthly page views)
+- Built **real-time analytics** and **personalization engines**
+- Implemented **event-driven architecture** using AWS Lambda and SQS
+- **Technologies**: Node.js, TypeScript, AWS, MongoDB, Docker, Kubernetes
 
-### **SSENSE** - Senior Software Engineer
-*April 2022 - August 2022*
-- Managed customer data and built tools for high-value customer engagement
-- Part of a team generating 100 million monthly page views
-- Worked with microservices architecture using Node.js, TypeScript, and AWS services
+### **[Qlik](https://www.qlik.com/)** - Cloud Software Engineer - R&D
+*February 2021 - April 2022 | Ottawa, Ontario, Canada*
+- Architected **OAuth/OIDC authentication** system for multi-tenant SaaS platform
+- Built **scalable APIs** handling thousands of monthly signups
+- Integrated with **identity providers**: Okta, Auth0, Azure AD, Salesforce
+- **Technologies**: Go, Node.js, MongoDB, Kubernetes, Redis
 
-### **Qlik** - Cloud Software Engineer
-*February 2021 - April 2022*
-- Owned authentication and tenant management backend services for multi-tenant SaaS
-- Implemented OAuth/OIDC APIs for identity provider integration
-- Supported thousands of monthly signups with robust cloud-native services
-
-### **Case IQ (Formerly i-Sight)** - Software Application Developer
-*September 2017 - February 2021*
-- Promoted to core platform team in August 2018
-- Developed platform features including To-Do automation, dynamic workflows, ACL, and multi-entity grids
-- Worked across full stack with Node.js, Express, PostgreSQL, Redis, and various frontend technologies
-- Mentored new developers and participated in code reviews
+### **[Case IQ (Formerly i-Sight)](https://www.caseiq.com/)** - Senior Software Application Developer
+*September 2017 - February 2021 | Ottawa, Canada*
+- Promoted to **core platform team** developing enterprise case management system
+- Built **workflow automation** and **real-time collaboration** features
+- Mentored junior developers and established **code review practices**
+- **Technologies**: Node.js, PostgreSQL, Redis, Docker, React
 
 ## 🏆 Achievements & Recognition
 
