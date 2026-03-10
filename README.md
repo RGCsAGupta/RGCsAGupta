@@ -1,317 +1,190 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,27,14,30&height=280&section=header&text=Hey,%20I'm%20Akash!%20👋&fontSize=70&animation=twinkling&fontAlignY=35&desc=Shipping%20SaaS%20%7C%20IoT%20%7C%20Cloud%20%E2%80%94%20From%20Ottawa%20to%20Production&descAlignY=50&descAlign=50&descSize=22" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111318&height=180&text=Akash%20Gupta&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=CEO%20%40%20RGCS%20%E2%80%94%20Cloud%20Architect%20%7C%20Ottawa%2C%20Canada&descSize=14&descFontColor=555555&descAlign=50&descAlignY=66&animation=fadeIn" width="100%"/>
+
+<br/>
+
+![LIVE](https://img.shields.io/badge/🟢_LIVE-gridowl.ca_%7C_restaurant--os.rgcs.ca_%7C_rgcs.ca-111318?style=flat-square&color=161b22&labelColor=161b22)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gupta52akash-ffffff?style=flat-square&logo=linkedin&logoColor=aaaaaa&labelColor=111318&color=111318)](https://www.linkedin.com/in/gupta52akash)
+[![Email](https://img.shields.io/badge/Email-agupta%40rgcs.ca-ffffff?style=flat-square&logo=gmail&logoColor=aaaaaa&labelColor=111318&color=111318)](mailto:agupta@rgcs.ca)
+[![Web](https://img.shields.io/badge/Web-rgcs.ca-ffffff?style=flat-square&logo=firefox&logoColor=aaaaaa&labelColor=111318&color=111318)](https://rgcs.ca)
+
 </div>
 
-<div align="center">
+<br/>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=1200&lines=🦉+GridOwl+%E2%80%94+IoT+Temperature+Monitoring%2C+Live+%40+gridowl.ca;🍽️+Restaurant+OS+%E2%80%94+Full+SaaS%2C+Live+%40+restaurant-os.rgcs.ca;🛍️+Buy+Locals+%E2%80%94+Cross-Platform+Marketplace+in+Flutter;☁️+8%2B+Years+Turning+Infrastructure+into+Products;🤖+Claude+Code+%2B+AI+%3D+10x+Everything" alt="Typing SVG" />
+---
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta52akash)
-[![Email](https://img.shields.io/badge/Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agupta@rgcs.ca)
-[![RGCS](https://img.shields.io/badge/RGCS.ca-Visit_Us-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://rgcs.ca)
-
-</div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> The TL;DR of Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+## `// whoami`
 
 ```javascript
 const akash = {
-    title: "CEO @ RGCS | Cloud Architect",
-    location: "Ottawa, Canada 🇨🇦",
+    title:    "CEO @ RGCS · Cloud Architect",
+    base:     "Ottawa, Canada 🇨🇦",
 
     shipping: [
-        "🦉 GridOwl   — IoT temp monitoring (gridowl.ca)",
-        "🍽️ Restaurant OS — Full SaaS (restaurant-os.rgcs.ca)",
-        "🛍️ Buy Locals — Flutter marketplace (CAJINC)",
-        "🌿 Krong Thai — Restaurant web + portal"
+        "🦉 GridOwl        →  gridowl.ca",
+        "🍽️  Restaurant OS  →  restaurant-os.rgcs.ca",
+        "🛍️  Buy Locals     →  Flutter / Supabase",
+        "🌿  Krong Thai     →  Next.js 15"
     ],
 
-    superpowers: [
-        "Turning chaos into microservices",
-        "OAuth whispering",
-        "Making AI do the heavy lifting",
-        "LoRaWAN to dashboard in one sprint"
-    ],
-
-    achievements: {
-        nasa:   "🚀 NASA Space Apps — Global Nominee",
-        scale:  "📈 100M+ monthly views handled",
-        impact: "💰 30% less food waste with AI",
-        live:   "🟢 3 products in production"
-    },
-
-    currentlyLearning: "LoRaWAN edge computing + Flutter Riverpod 🦉",
-    funFact: "I debug in production (just kidding... or am I?)"
+    background: "NuraLogix → SSENSE → Qlik → Case IQ → RGCS (CEO)"
 };
 ```
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## 🔥 What's Live in Production
-
-<div align="center">
-
-### 🦉 **GRIDOWL** — IoT Temperature Monitoring Platform
-
-<img src="https://img.shields.io/badge/Status-Live-00C851?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/gridowl.ca-Visit-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-<img src="https://img.shields.io/badge/Powered%20By-LoRaWAN%20%2B%20FastAPI-7B2FBE?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-
-</div>
-
-**🌡️ The Problem:** Temperature-sensitive businesses flying blind on compliance & spoilage
-**💡 The Solution:** End-to-end LoRaWAN sensor → cloud → dashboard, real-time alerts, multi-tenant
-
-<details>
-<summary><b>🔍 Click to see what GridOwl does</b></summary>
-
-### Platform Features:
-- 🔌 **ChirpStack LoRaWAN** — sensor ingestion at scale
-- 📊 **Real-time dashboards** — alerting, thresholds, compliance logs
-- 🏢 **Multi-tenant architecture** — one platform, many customers
-- 🔐 **Policy-based auth** — role-level access per org
-- 📱 **React + shadcn/ui** — clean, responsive interface
-
-### Tech Stack:
-```
-Backend:   FastAPI (Python 3.11+) — 5-layer architecture
-Database:  PostgreSQL — 32 tables, 209 API endpoints, 27 migrations
-IoT:       ChirpStack LoRaWAN
-Frontend:  React + shadcn/ui
-Auth:      JWT + policy-based authorization
-Deploy:    Docker Compose → gridowl.ca / gridowl.net
-```
-
-</details>
+| | |
+|---|---|
+| 🚀 **NASA Space Apps** | Global Nominee |
+| 📈 **100M+ monthly requests** | Handled at SSENSE |
+| 🟢 **3 products in production** | GridOwl · Restaurant OS · Krong Thai |
+| ☁️ **8+ years cloud architecture** | AWS · Kubernetes · Docker |
 
 ---
 
-<div align="center">
+## `// products in production`
 
-### 🍽️ **RESTAURANT OS** — Full Restaurant Management SaaS
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/Status-Live-00C851?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/restaurant--os.rgcs.ca-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Powered%20By-Claude%20Vision%20%2B%20Node%2022-FFE66D?style=for-the-badge&logo=anthropic&logoColor=black"/>
+<td valign="top" width="33%">
 
-</div>
+### 🦉 GridOwl
+![LIVE](https://img.shields.io/badge/●_LIVE-gridowl.ca-111318?style=flat-square&color=111318&labelColor=111318&logoColor=white)
 
-**🤯 The Problem:** Restaurants run on 47 different apps, 3 Excel sheets, and pure chaos
-**💡 The Solution:** One platform — POS, inventory, staff, bills, AI OCR — all in one
+Multi-tenant IoT temperature monitoring. LoRaWAN sensors → real-time dashboards → compliance logs.
 
-<details>
-<summary><b>🎯 Click to see what Restaurant OS does</b></summary>
+![FastAPI](https://img.shields.io/badge/FastAPI-111318?style=flat-square&logo=fastapi&logoColor=aaaaaa)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111318?style=flat-square&logo=postgresql&logoColor=aaaaaa)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-111318?style=flat-square&logo=raspberry-pi&logoColor=aaaaaa)
+![React](https://img.shields.io/badge/React-111318?style=flat-square&logo=react&logoColor=aaaaaa)
+![shadcn](https://img.shields.io/badge/shadcn%2Fui-111318?style=flat-square&logoColor=aaaaaa)
 
-### Platform Features:
-- 🤖 **Claude Vision OCR** — scan paper bills instantly
-- 💸 **POS that actually makes sense**
-- 📊 **Analytics that explain why you're losing money** (spoiler: it's the avocados)
-- 💬 **Twilio + Nodemailer** — automated comms built in
-- 💳 **Stripe** — payments handled
+</td>
 
-### Tech Stack:
-```
-Frontend:  React 19 + Vite 7 + Tailwind CSS 4
-Backend:   Node.js 22 + Express 5
-Database:  SQLite (WAL mode)
-AI:        Anthropic Claude Vision (OCR)
-Payments:  Stripe
-Comms:     Twilio + Nodemailer
-Deploy:    Docker Compose → restaurant-os.rgcs.ca
-```
+<td valign="top" width="33%">
 
-</details>
+### 🍽️ Restaurant OS
+![LIVE](https://img.shields.io/badge/●_LIVE-restaurant--os.rgcs.ca-111318?style=flat-square&color=111318&labelColor=111318)
+
+Full restaurant SaaS — POS, inventory, Claude Vision OCR bill scanning, Stripe payments.
+
+![Node](https://img.shields.io/badge/Node.js_22-111318?style=flat-square&logo=node.js&logoColor=aaaaaa)
+![React](https://img.shields.io/badge/React_19-111318?style=flat-square&logo=react&logoColor=aaaaaa)
+![SQLite](https://img.shields.io/badge/SQLite-111318?style=flat-square&logo=sqlite&logoColor=aaaaaa)
+![Claude](https://img.shields.io/badge/Claude_Vision-111318?style=flat-square&logo=anthropic&logoColor=aaaaaa)
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🛍️ Buy Locals
+![DEV](https://img.shields.io/badge/◐_IN_DEV-Flutter_marketplace-111318?style=flat-square&color=111318&labelColor=111318)
+
+Cross-platform marketplace — iOS, Android & Web. Local business vs. big box. 94 test files.
+
+![Flutter](https://img.shields.io/badge/Flutter_3+-111318?style=flat-square&logo=flutter&logoColor=aaaaaa)
+![Dart](https://img.shields.io/badge/Dart_3+-111318?style=flat-square&logo=dart&logoColor=aaaaaa)
+![Supabase](https://img.shields.io/badge/Supabase-111318?style=flat-square&logo=supabase&logoColor=aaaaaa)
+![Riverpod](https://img.shields.io/badge/Riverpod-111318?style=flat-square&logo=flutter&logoColor=aaaaaa)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<div align="center">
+## `// stack`
 
-### 🛍️ **BUY LOCALS** — Cross-Platform Local Business Marketplace
+**Languages**
 
-<img src="https://img.shields.io/badge/Status-In%20Development-4ECDC4?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-Cross%20Platform-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/94%20Test%20Files-Tested-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+![TypeScript](https://img.shields.io/badge/TypeScript-111318?style=flat-square&logo=typescript&logoColor=cccccc)
+![Python](https://img.shields.io/badge/Python-111318?style=flat-square&logo=python&logoColor=cccccc)
+![Dart](https://img.shields.io/badge/Dart-111318?style=flat-square&logo=dart&logoColor=cccccc)
+![Go](https://img.shields.io/badge/Go-111318?style=flat-square&logo=go&logoColor=cccccc)
+![Java](https://img.shields.io/badge/Java-111318?style=flat-square&logo=openjdk&logoColor=cccccc)
 
-</div>
+**Frameworks**
 
-**🏪 The Problem:** Local businesses invisible online vs. Amazon & big box
-**💡 The Solution:** Flutter marketplace for iOS, Android & Web — supporting local commerce
+![FastAPI](https://img.shields.io/badge/FastAPI-111318?style=flat-square&logo=fastapi&logoColor=cccccc)
+![React](https://img.shields.io/badge/React_19-111318?style=flat-square&logo=react&logoColor=cccccc)
+![Flutter](https://img.shields.io/badge/Flutter-111318?style=flat-square&logo=flutter&logoColor=cccccc)
+![Next.js](https://img.shields.io/badge/Next.js_15-111318?style=flat-square&logo=next.js&logoColor=cccccc)
+![Node.js](https://img.shields.io/badge/Node.js_22-111318?style=flat-square&logo=node.js&logoColor=cccccc)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS_4-111318?style=flat-square&logo=tailwind-css&logoColor=cccccc)
 
-<details>
-<summary><b>📱 Click to see the stack</b></summary>
+**Cloud & Infra**
 
-```
-Mobile/Web: Flutter 3+ / Dart 3+ (iOS, Android, Web)
-Backend:    Supabase + PostgreSQL (Row Level Security)
-State:      Riverpod
-Navigation: GoRouter
-Pattern:    Clean Architecture — Result<T,E>, never throws
-Tests:      94 test files
-```
+![AWS](https://img.shields.io/badge/AWS-111318?style=flat-square&logo=amazon-aws&logoColor=cccccc)
+![Docker](https://img.shields.io/badge/Docker-111318?style=flat-square&logo=docker&logoColor=cccccc)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111318?style=flat-square&logo=kubernetes&logoColor=cccccc)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111318?style=flat-square&logo=postgresql&logoColor=cccccc)
+![Supabase](https://img.shields.io/badge/Supabase-111318?style=flat-square&logo=supabase&logoColor=cccccc)
+![Claude Code](https://img.shields.io/badge/Claude_Code-111318?style=flat-square&logo=anthropic&logoColor=cccccc)
 
-</details>
+**Auth**
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+![OAuth](https://img.shields.io/badge/OAuth_2.0-111318?style=flat-square&logo=auth0&logoColor=cccccc)
+![OIDC](https://img.shields.io/badge/OIDC-111318?style=flat-square&logo=openid&logoColor=cccccc)
+![JWT](https://img.shields.io/badge/JWT-111318?style=flat-square&logo=jsonwebtokens&logoColor=cccccc)
 
-## 💪 Tech Arsenal (My Infinity Stones)
+---
 
-<div align="center">
-
-### 🧙‍♂️ **Languages I Speak** (Fluently)
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black" />
-</p>
-
-### ☁️ **Cloud Wizardry**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=black" />
-</p>
-
-### 🎨 **Frontend Magic**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black" />
-</p>
-
-### 🔐 **Auth Sorcery** (My Specialty)
-<p>
-  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/OIDC-F78C40?style=for-the-badge&logo=openid&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-</p>
-
-### 🤖 **AI & IoT**
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LoRaWAN-ChirpStack-E85D04?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-</div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## 📈 The Numbers Don't Lie
+## `// github stats`
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=RGCsAGupta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RGCsAGupta&show_icons=true&hide_border=true&bg_color=111318&title_color=ffffff&icon_color=666666&text_color=888888&ring_color=333333" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RGCsAGupta&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" />
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RGCsAGupta&hide_border=true&background=111318&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideNums=888888&sideLabels=555555&dates=444444&stroke=222222" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RGCsAGupta&custom_title=My%20Coding%20Rhythm%20🎵&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area_color=0d1117&title_color=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## 🏢 Where I've Made Magic Happen
-
-<details>
-<summary><b>🚀 Click to see my journey (it's been wild)</b></summary>
-
-### 🎯 **Current Mission**
-**👔 CEO @ [RGCS](https://rgcs.ca)** *(March 2022 - Building the future)*
-- 🦉 Shipping GridOwl — IoT monitoring at `gridowl.ca`
-- 🍽️ Running Restaurant OS live at `restaurant-os.rgcs.ca`
-- 🛍️ Building Buy Locals — local commerce, Flutter cross-platform
-- 💡 Turning "that's impossible" into "here's the demo"
-
-### 🏆 **Previous Boss Battles**
-**☁️ NuraLogix** - Made health tech scale to millions
-**🛍️ SSENSE** - Handled 100M+ monthly fashion addicts
-**📊 Qlik** - Built auth systems that don't break
-**🔍 Case IQ** - 3.5 years making enterprise software not suck
-
-### 🎖️ **Achievement Unlocked**
-- 🚀 **NASA Space Apps Challenge** - Global Nominee (yes, actual rocket science)
-- 🟢 **3 products in production** — GridOwl, Restaurant OS, Krong Thai
-- 🎤 **Conference Speaker** - Spreading the cloud gospel
-- 🧑‍🏫 **Mentor** - Creating more cloud wizards
-
-</details>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## 💭 Random Thoughts from My Brain
-
-<div align="center">
-
-*"The best code is no code. The second best is code that writes itself. That's why I use Claude Code."*
-
-*"I don't always test in production, but when I do, it's on a Friday at 5 PM."* (jk, please don't)
-
-*"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*
-
-</div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## 🎮 Let's Connect & Build Cool Stuff!
-
-<div align="center">
-
-### 💬 Hit me up if you want to:
-- 🦉 **Build an IoT platform** (sensors to dashboard in one sprint)
-- 🍽️ **Modernize restaurant operations** (I've done it, it works)
-- ☁️ **Migrate to the cloud** (without crying)
-- 🤖 **Add AI to literally anything** (AI-powered toaster? Let's talk)
-- 💡 **Turn your "what if" into "what's next"**
-
-<br>
-
-<a href="https://www.linkedin.com/in/gupta52akash">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:agupta@rgcs.ca">
-  <img src="https://img.shields.io/badge/Email-Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://rgcs.ca">
-  <img src="https://img.shields.io/badge/RGCS.ca-See%20Our%20Work-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black" />
-</a>
-
-<br><br>
-
-### 🎯 **Currently Open To:**
-`🤝 Collaborations` `🎤 Speaking Engagements` `☕ Coffee Chats` `🚀 Crazy Ideas`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RGCsAGupta&bg_color=111318&color=555555&line=444444&point=ffffff&area_color=111318&title_color=888888&area=true&hide_border=true" />
 
 </div>
 
 ---
 
+## `// experience`
+
+| Company | Role |
+|---|---|
+| **RGCS** | CEO · Building GridOwl, Restaurant OS, Buy Locals · *Mar 2022 → now* |
+| **NuraLogix** | Health tech at scale — millions of users |
+| **SSENSE** | 100M+ monthly requests — fashion ecommerce |
+| **Qlik** | Enterprise auth systems that don't break |
+| **Case IQ** | 3.5 years making enterprise software not suck |
+
+🚀 **NASA Space Apps Challenge** — Global Nominee &nbsp;·&nbsp; 🎤 **Conference Speaker** &nbsp;·&nbsp; 🧑‍🏫 **Mentor**
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,27,14,30&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontAlignY=70&animation=twinkling&desc=Let's%20build%20the%20future%20together%20🚀&descAlignY=88&descSize=18" width="100%" />
 
-  <br>
+`open to collabs · speaking · coffee chats · wild ideas`
 
-  <img src="https://komarev.com/ghpvc/?username=RGCsAGupta&label=Profile%20Views&color=00ffff&style=for-the-badge" alt="Profile views" />
+<br/>
 
-  <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=111318&labelColor=ffffff&color=ffffff)](https://www.linkedin.com/in/gupta52akash)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-111318?style=for-the-badge&logo=gmail&logoColor=aaaaaa&labelColor=111318&color=111318)](mailto:agupta@rgcs.ca)
+[![RGCS](https://img.shields.io/badge/RGCS.ca-Visit-111318?style=for-the-badge&logo=firefox&logoColor=aaaaaa&labelColor=111318&color=111318)](https://rgcs.ca)
 
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<br/>
 
-  <br><br>
+<img src="https://komarev.com/ghpvc/?username=RGCsAGupta&label=views&color=111318&style=flat-square" />
 
-  <b>⚡ Fun fact:</b> This README loads faster than my first Java program 😅
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111318&height=60&text=agupta%40rgcs.ca%20%C2%B7%20gridowl.ca%20%C2%B7%20rgcs.ca&fontSize=12&fontColor=333333&fontAlign=50&fontAlignY=50" width="100%"/>
+
 </div>
