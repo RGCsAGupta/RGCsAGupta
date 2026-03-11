@@ -22,7 +22,7 @@
 
 ```javascript
 const akash = {
-    title:    "CEO @ RGCS · Cloud Architect",
+    title:    "Founder and Lead Engineer @ RGCS · Cloud Architect",
     base:     "Ottawa, Canada 🇨🇦",
 
     shipping: [
