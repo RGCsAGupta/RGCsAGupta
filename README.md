@@ -53,7 +53,7 @@ Cloud-based, multi-tenant IoT temperature-monitoring platform. LoRaWAN sensors f
 | **NuraLogix** | Cloud Platform Engineer · Contract | Aug 2022–May 2023 |
 | **SSENSE** | Senior Software Engineer · Contract | Apr 2022–Aug 2022 |
 | **Qlik** | Cloud Software Engineer | Feb 2021–Apr 2022 |
-| **Case IQ (formerly i-Sight)** | Software Engineer | Sep 2017–Feb 2021 |
+| **Case IQ (formerly i-Sight)** | Core Platform Developer | Sep 2017–Feb 2021 |
 
 Selected highlights:
 
